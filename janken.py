@@ -74,16 +74,16 @@ class Person(Janken):
 
 
 
+if __name__ == "__main__":
+    #janken_aからc
+    janken_base = Janken()
+    janken_base.janken_a()
 
-#janken_aからc
-janken_base = Janken()
-janken_base.janken_a()
+    #janken_b専用
+    # janken_base = Janken()
+    # result, name = janken_base.janken_d()
+    # print(result, name)
 
-#janken_b専用
-# janken_base = Janken()
-# result, name = janken_base.janken_d()
-# print(result, name)
-
-#プレーヤーの名前入力
-# janken_base = Person()
-# janken_base.janken_a()
+    #プレーヤーの名前入力
+    # janken_base = Person()
+    # janken_base.janken_a()

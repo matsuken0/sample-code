@@ -73,7 +73,7 @@ class Person(Janken):
     pass
 
 
-
+#リモートリポ
 if __name__ == "__main__":
     #janken_aからc
     janken_base = Janken()

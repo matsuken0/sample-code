@@ -73,7 +73,7 @@ class Person(Janken):
     pass
 
 
-
+#ローカルリポ
 if __name__ == "__main__":
     #janken_aからc
     janken_base = Janken()

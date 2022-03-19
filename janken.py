@@ -1,4 +1,4 @@
-class Janken:
+﻿class Janken:
     def __init__(self, name1="太郎", name2="花子"):
         self.name1 = name1
         self.name2 = name2
@@ -73,7 +73,7 @@ class Person(Janken):
     pass
 
 
-#リモートリポ
+#ローカルリポ
 if __name__ == "__main__":
     #janken_aからc
     janken_base = Janken()

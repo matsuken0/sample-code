@@ -87,3 +87,4 @@ if __name__ == "__main__":
     #プレーヤーの名前入力
     # janken_base = Person()
     # janken_base.janken_a()
+    print("リモートリポで更新")

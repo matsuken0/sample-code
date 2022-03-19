@@ -73,7 +73,7 @@ class Person(Janken):
     pass
 
 
-#リモートリポ
+#ローカルリポ
 if __name__ == "__main__":
     #janken_aからc
     janken_base = Janken()
@@ -87,3 +87,6 @@ if __name__ == "__main__":
     #プレーヤーの名前入力
     # janken_base = Person()
     # janken_base.janken_a()
+
+
+    print("janken")
